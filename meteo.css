@@ -310,7 +310,7 @@ h3 {
     flex-direction: column;
     min-width: 50px;
     gap: 0px;
-  
+
     margin-top: 20px;
   }
 
@@ -320,27 +320,23 @@ h3 {
 
   .blocDetailMeteo {
     min-width: 50px;
- 
   }
 
   .nextDay {
     display: flex;
-     width: 110px;
-  height: 150px;
-   
+    width: 110px;
+    height: 150px;
   }
 
   .blocDroiteJour {
     display: none;
   }
 
-
   .meteoProchainJour {
     padding-left: 0px;
-  justify-content: center;
-  align-items: center;
+    justify-content: center;
+    align-items: center;
     gap: 20px;
     margin-bottom: 20px;
-   
   }
 }
